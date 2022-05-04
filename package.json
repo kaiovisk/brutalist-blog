@@ -1,0 +1,26 @@
+{
+  "name": "brutalist-blog",
+  "version": "1.0.0",
+  "description": "walkthrought a brutalist web design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiovisk/brutalist-blog.git"
+  },
+  "keywords": [
+    "brutalism"
+  ],
+  "author": "Kaio Roque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaiovisk/brutalist-blog/issues"
+  },
+  "homepage": "https://github.com/kaiovisk/brutalist-blog#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
